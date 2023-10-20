@@ -7,7 +7,7 @@ I'm a Full Stack Developer from Argentina.
 
 I am always looking to learn new skills, put what I have learned into practice to offer solutions and solve problems, assume responsibilities and grow professionally. Motivated and apt for teamwork.
 
-Now my goal is to learn TypeScript because it is highly required by companies and then continue with Java to have a good foundation in programming fundamentals and improve my logical thinking.
+
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
